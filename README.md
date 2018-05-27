@@ -5,7 +5,7 @@ Thank you for using Buddy: Migraine Support. This support page for the app conta
 Haven't downloaded Buddy yet?
 
 - [Download on Google Play Store](https://play.google.com/store/apps/details?id=com.buddytheapp.buddy)
-- [Contact us](mailto:buddymigraine@gmail.com) to download the app on Test Flight for iOS devices
+- [Download on the App Store](https://itunes.apple.com/us/app/buddy-migraine-support/id1387067761?mt=8)
 
 ### Contact
 Having trouble with Buddy:Migraine Support? [Email us](mailto:buddymigraine@gmail.com) or feel free to use our in-app feedback form on the Settings page. 
